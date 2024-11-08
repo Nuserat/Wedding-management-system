@@ -1,3 +1,3 @@
 # Wedding-management-system
 Java Swing using File
-     https://nuserat.github.io/Wedding-management-system/EMStartP.java
+     https://nuserat.github.io/Wedding-management-system
